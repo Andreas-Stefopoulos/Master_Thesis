@@ -1,0 +1,9 @@
+.wrap{
+    background-color: blueviolet;
+    height: 36rem !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+}
